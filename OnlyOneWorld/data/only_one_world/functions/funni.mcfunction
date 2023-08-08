@@ -1,9 +1,0 @@
-execute at @r run summon warden
-execute at @r run summon warden
-execute at @r run summon warden
-execute at @r run summon warden
-execute at @r run summon warden
-execute at @r run summon warden
-execute at @r run summon warden
-execute at @r run summon warden
-execute at @r run summon warden
