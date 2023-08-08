@@ -1,0 +1,21 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+      "111",
+      "121",
+      "111"
+    ],
+    "key": {
+      "1": {
+        "item": "minecraft:sculk"
+      },
+      "2": {
+        "item": "minecraft:soul_sand"
+      }
+    },
+    "result": {
+      "item": "minecraft:soul_sand",
+      "count": 9
+    }
+  }
+  
