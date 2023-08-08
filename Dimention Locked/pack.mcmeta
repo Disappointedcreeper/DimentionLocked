@@ -1,0 +1,6 @@
+{
+    "pack": {
+        "pack_format": 15,
+        "description": "Removes the nether and end, forcing you to live in the overworld."
+    }
+}
