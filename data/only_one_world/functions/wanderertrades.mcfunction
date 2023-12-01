@@ -10,6 +10,7 @@ execute if score rng2 int matches 7 run data modify entity @s Offers.Recipes pre
 execute if score rng2 int matches 8 run data modify entity @s Offers.Recipes prepend value {buy:{id:emerald,Count:42},sell:{id:music_disc_pigstep,Count:1},rewardExp:42b,maxUses:1}
 execute if score rng2 int matches 9 run data modify entity @s Offers.Recipes prepend value {buy:{id:emerald,Count:21},sell:{id:shulker_shell,Count:1},rewardExp:21b,maxUses:8}
 execute if score rng2 int matches 10 run data modify entity @s Offers.Recipes prepend value {buy:{id:emerald,Count:64},sell:{id:ancient_debris,Count:1},rewardExp:64b,maxUses:4}
+execute if score rng2 int matches 11 run data modify entity @s Offers.Recipes prepend value {buy:{id:emerald,Count:21},sell:{id:wither_skeleton_skull,Count:1},rewardExp:64b,maxUses:3}
 
 execute if score rng int matches 1 run data modify entity @s Offers.Recipes prepend value {buy:{id:emerald,Count:5},sell:{id:nether_wart,Count:1},rewardExp:5b,maxUses:2}
 execute if score rng int matches 2 run data modify entity @s Offers.Recipes prepend value {buy:{id:emerald,Count:3},sell:{id:end_stone,Count:1},rewardExp:3b,maxUses:20}
